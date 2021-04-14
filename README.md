@@ -1,2 +1,2 @@
 # Machine-Translation
-CNN and RNN models to perform Machine Translation from English-German
+Convolutional and Recurrent Neural Network models used to perform Machine Translation from English-German
